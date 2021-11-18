@@ -9,4 +9,5 @@ ii)charging stations.
 iii)Cost
 
 Present automobile technology can achieve the top speed (120 rpm)by E vehicle(Ev's) also but they are not utilizing because of power station and its cost of
-but present market 
+but present market we get ebikes 40000 rupess cost so price is also a not a big deal. the only one problem is charging stations.
+so my idea is to bulid a charging station.
