@@ -7,4 +7,4 @@
 ## Low Level Requirement Design 
 ![image](https://github.com/Vamsi-Mudineti/M1_app_Wireless-Waterlevel-Controller/blob/main/chargingstation.JPG)
 
-![image](https://github.com/Vamsi-Mudineti/M1_app_Wireless-Waterlevel-Controller/blob/main/ev%20charginng%20station.pdf)
+![image](https://github.com/Vamsi-Mudineti/M1_app_Wireless-Waterlevel-Controller/blob/main/ev%20charginng%20station_page-0001.jpg)
