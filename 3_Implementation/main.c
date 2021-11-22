@@ -97,7 +97,7 @@ int recall()
    // printf("EV Charging done upto %d \n",coin_status);
    // printf("if you want to Charge Ev again enter 1 \n");
   //  scanf("%d",&tem);
-    temp=1;
+    tem=1;
     Charging_step1();
     Charging_step2();
     if(tem==1)
