@@ -30,12 +30,14 @@ Present if we observe the current situation pertol price is high, so every one i
 ![image](https://www.91-cdn.com/hub/wp-content/uploads/2021/11/electric-car-sales-india-fy-2021-2022.jpg)
 
 Tata Nexon is in top position in Ev car Market,And also Every companies is concerated on EV's Charging Stations.
-recently HeroelecTRic is tried up with CHARGE companie and trying to estalish the Ev charging station More than 80 cities, present there are working in banglore citie.
+
 
 ![image](https://img1.wsimg.com/isteam/ip/33245bb6-f268-41f8-a23c-2678092e05a0/WhatsApp%20Image%202020-01-18%20at%2011.11.46%20AM.jpeg)
 
+recently HeroelecTRic is tied up with CHARGE companie and trying to estalish the Ev charging station More than 80 cities, present there are working in banglore citie.
+
 ## Cost and Features and Timeline
-Time VS Ev Development
+Time VS EV Development
 
 ![image ](https://www.researchgate.net/publication/345392256/figure/fig1/AS:1014645091491840@1618921649434/Historical-timeline-of-the-development-of-EV-HEV.png)
 
@@ -43,19 +45,19 @@ Comparsion of EV's And SI Engines
 
 ![image](https://i2.wp.com/evduniya.com/wp-content/uploads/2020/04/Example-of-Cost-of-Running-an-Electric-Vehicle-in-India.png?w=800&ssl=1)
 
-### Imporant factor that effecyt the cost of e bike
+### Imporant factor that effect the cost of EV's
 
 ![image](https://image.cnbcfm.com/api/v1/image/106315306-157772330676720191230_timeline_of_market_development.png?v=1577723332&w=720&h=405)
 
 # Defining Our System
-Ev charging station is supplies energy to EV's, Here we can generate our own energy either wind turbines or solar pannels or connected to transmission line.and  Energy is give to charge EV's.
-Note: if we connected to tranmission lines, we neeed to use rectifier to convert AC to DC supply(120V DC). if we use use solar or wind energy sources we need to used regulator to obtaine a constant DC Output.
+Ev charging station supplies energy to EV's, Here we can generate our own energy either wind turbines or solar panels or connected to transmission line.and  Energy is given to charge EV's.
+Note: If it is connected to tranmission lines, we neeed to use rectifier to convert AC to DC supply(120V DC). if we use use solar or wind energy sources we need to used regulator to obtaine a constant DC Output.
 
 In My system Coin sensor,Microcontroller,Realy,LCD display are used.
-As soon Coin Sensor detects the coin it sends a pulse to the Microcontroller. The Microcontroller turns ON the relay(Electromechanical Switch) to provide 230V,50Hz signal to the charging socket and the user can charge his/her mobile phone from the socket. The LCD (16×2) is used to display the time duration for which the user can charge his/her mobile phone.
+As soon Coin Sensor detects the coin it sends a pulse to the Microcontroller. The Microcontroller turns ON the relay(Electromechanical Switch) to provide 230V,50Hz signal to the charge the EV. The LCD (16×2) is used to display the time duration for which the user can charge his/her EV.
 If we insert a coin accroding to that EV's will charge up to time
 For example:
-if we insert 1Rs coin it will charge up to 1 mintue.30 seconds, -> 2 rs coin it charge up to 3 mintues,if we 5 rs coin  it will charge up to 10 mintues. like that we implement.
+if we insert 1Rs coin it will charge up to 1 mintue.30 seconds, -> 2 rs coin it charge up to 3 mintues,if we 5 rs coin  it will charge up to 10 mintues. like that i need to implement.
 ![image](https://resources.altium.com/sites/default/files/inline-images/migrate/aHViPTY1NjQ2JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhNDZiYzM2YTI4ZTcuanBnJnZlcnNpb249MDAwMCZzaWc9MGU2ZTg5ZmZkYWVmMWYwODc2MmYwNzUzZjI2YmUyM2E%25253D)
 
 # SWOT ANALYSIS
@@ -83,7 +85,8 @@ How do users interact with things/Equipment? How are new things deployed within 
 ## High Level Requirements:
 | ID | Description | Category | Status |
 |-------|--------------|---------|-----------|
-|HR01|Maintaining Constant Voltage,Current|Requried Based|IMPLEMENTED|
+|HR01|Maintaining Constant Voltage,Current|Requried Based|IMPLEMENTED|![hacker rank](https://user-images.githubusercontent.com/94225184/143178943-10f8f99f-2cdf-4f70-8e3e-4115168c4116.JPG)
+
 |HR02|Speed Charging|Requried Based|IMPLEMENTED|
 |HR03|Contionus Power Supply| Requried Based| IMPLEMENTED|
 |HR04|Connectors|Required Based| IMPLEMENTED|
