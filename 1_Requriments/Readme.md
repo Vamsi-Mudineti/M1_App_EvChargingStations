@@ -84,8 +84,7 @@ How do users interact with things/Equipment? How are new things deployed within 
 ## High Level Requirements:
 | ID | Description | Category | Status |
 |-------|--------------|---------|-----------|
-|HR01|Maintaining Constant Voltage,Current|Requried Based|IMPLEMENTED|![hacker rank](https://user-images.githubusercontent.com/94225184/143178943-10f8f99f-2cdf-4f70-8e3e-4115168c4116.JPG)
-
+|HR01|Maintaining Constant Voltage,Current|Requried Based|IMPLEMENTED|
 |HR02|Speed Charging|Requried Based|IMPLEMENTED|
 |HR03|Contionus Power Supply| Requried Based| IMPLEMENTED|
 |HR04|Connectors|Required Based| IMPLEMENTED|
