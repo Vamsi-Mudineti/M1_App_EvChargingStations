@@ -96,5 +96,5 @@ How do users interact with things/Equipment? How are new things deployed within 
 |LR03|Microcontroller|HR01| IMPLEMENTED|
 |LR04|Relay|HR01| IMPLEMENTED|
 |LR05|Charging time will change base on coins|HR02| IMPLEMENTED|
-|LR06|Lcd display used to display actions/status| HR03| IMPLEMENTED|
-|LR07|Universal Connectors is used for Ebike another one for Ecars-EBuses |HR04| IMPLEMENTED|
+|LR06|LCD display used to display actions/status| HR03| IMPLEMENTED|
+|LR07|Universal Connectors is used for E-Bike another one for E-Cars,E-Buses |HR04| IMPLEMENTED|
