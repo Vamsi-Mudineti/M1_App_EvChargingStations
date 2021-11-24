@@ -1,8 +1,21 @@
 # M1_app_EvChargingStations
-| Build_Windows   |  Build_linux    |  Static_code_ Cppcheck    |  Unit_Testing   | Codacy    |
+## Build_Windows      
 
-|[![Build Windows](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml)|[![Build_linux](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml)
-|[![Static code Cppcheck](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml)|[![Unit_Testing](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml)|
+|[![Build Windows](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml)
+
+## Build_linux 
+
+[![Build_linux](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml)
+
+## Static_code_ Cppcheck
+ 
+[![Static code Cppcheck](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml)
+
+## Unit_Testing
+
+[![Unit_Testing](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml)
+
+## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eeec8d4d4d214cd7994be37ffd2adbcf)](https://www.codacy.com/gh/Vamsi-Mudineti/M1_App_EvChargingStations/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vamsi-Mudineti/M1_App_EvChargingStations&amp;utm_campaign=Badge_Grade)
 
 Around 1832, Robert Anderson develops the first crude electric vehicle, But upto date we are using IC engines vehicle.
