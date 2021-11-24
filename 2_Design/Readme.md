@@ -1,5 +1,8 @@
-#Design
+
 ## High Level Requirement Design
+
+# Strcutural Diagram
+
 ![image](https://github.com/Vamsi-Mudineti/M1_app_Wireless-Waterlevel-Controller/blob/main/flowchart.jpg)
 
 ![image](https://github.com/Vamsi-Mudineti/M1_app_Wireless-Waterlevel-Controller/blob/main/1_Requriement/behaviour%20diagram.png)
