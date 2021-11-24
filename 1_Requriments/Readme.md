@@ -58,7 +58,6 @@ As soon Coin Sensor detects the coin it sends a pulse to the Microcontroller. Th
 If we insert a coin accroding to that EV's will charge up to time
 For example:
 if we insert 1Rs coin it will charge up to 1 mintue.30 seconds, -> 2 rs coin it charge up to 3 mintues,if we 5 rs coin  it will charge up to 10 mintues. like that i need to implement.
-![image](https://resources.altium.com/sites/default/files/inline-images/migrate/aHViPTY1NjQ2JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhNDZiYzM2YTI4ZTcuanBnJnZlcnNpb249MDAwMCZzaWc9MGU2ZTg5ZmZkYWVmMWYwODc2MmYwNzUzZjI2YmUyM2E%25253D)
 
 # SWOT ANALYSIS
 
