@@ -4,15 +4,22 @@ Electrical energy is supplied to EV's by
 
 i) Plug-in Electrical vechicle
 
+
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Electric_car_charging_%28ACEA_terminology%29.svg/1920px-Electric_car_charging_%28ACEA_terminology%29.svg.png)
+
 
 ii) Battery Swaping Technique
 
+
 ![image](https://img.etimg.com/thumb/width-1200,height-900,imgsize-178997,resizemode-1,msid-79874332/industry/auto/auto-news/sun-mobility-aims-to-set-up-100-battery-swapping-stations-in-bengaluru-by-2021-end.jpg)
+
 
 iii) Wireless parking charge
 
+
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Electric_car_wireless_parking_charge_closeup.jpg/1920px-Electric_car_wireless_parking_charge_closeup.jpg)
+
+
 
 ## My idea is to implement a charging station, if we insert a coin accroding to that EV's will charge up to time. 
 
