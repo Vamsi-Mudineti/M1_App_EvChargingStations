@@ -84,15 +84,17 @@ How do users interact with things/Equipment? How are new things deployed within 
 ## High Level Requirements:
 | ID | Description | Category | Status |
 |-------|--------------|---------|-----------|
-|HR01|Maintaining Constant Voltage,Current|Requried Based|IMPLEMENTED|
-|HR02|Speed Charging|Requried Based|IMPLEMENTED|
-|HR03|Contionus Power Supply| Requried Based| IMPLEMENTED|
+|HR01|Charge The EV|Requried Based|IMPLEMENTED|
+|HR02|Charging Time|Requried Based|IMPLEMENTED|
+|HR03|Display The Output| Requried Based| IMPLEMENTED|
 |HR04|Connectors|Required Based| IMPLEMENTED|
 ## Low level Requirements:
 | ID | Description | HLR ID | Status |
 |-------|--------------|---------|-----------|
-|LR01|Maintaining Constant Voltage 230 Volts for Single Phase,415 volts for 3 phase|HR01|IMPLEMENTED|
-|LR02|Maintaing Constant current of 12 amps|HR01|IMPLEMENTED|
-|LR03|Time required for charging is must less|HR02| IMPLEMENTED|
-|LR04|Maintain a power backup facility| Hr03| IMPLEMENTED|
+|LR01|Identify the Energy source to charge EV|HR01|IMPLEMENTED|
+|LR02|Coin Sensior|HR01|IMPLEMENTED|
+|LR03|Microcontroller|HR01| IMPLEMENTED|
+|LR03|Relay|HR01| IMPLEMENTED|
+|LR03|Charging timme will change base on coins|HR02| IMPLEMENTED|
+|LR04|Lcd display used to display actions/status| Hr03| IMPLEMENTED|
 |LR04|Universal Connectors is used for Ebike another one for Ecars-EBuses |HR04| IMPLEMENTED|
