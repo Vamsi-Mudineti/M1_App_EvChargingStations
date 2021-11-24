@@ -26,9 +26,10 @@ iii) Wireless parking charge
 
 # Research
 Present if we observe the current situation pertol price is high, so every one is look at EV's.recently, Ola electricals lanuch ebikes S1 and S1 pro registration hits 500 scooter per second.EV's are also occupies 30% of present market shares.
+
 ![image](https://www.91-cdn.com/hub/wp-content/uploads/2021/11/electric-car-sales-india-fy-2021-2022.jpg)
 
-TAta Nexon is in top position in Ev car Market,And also Every companies is concerated on EV's Charging Stations.
+Tata Nexon is in top position in Ev car Market,And also Every companies is concerated on EV's Charging Stations.
 recently HeroelecTRic is tried up with CHARGE companie and trying to estalish the Ev charging station More than 80 cities, present there are working in banglore citie.
 
 ![image](https://img1.wsimg.com/isteam/ip/33245bb6-f268-41f8-a23c-2678092e05a0/WhatsApp%20Image%202020-01-18%20at%2011.11.46%20AM.jpeg)
