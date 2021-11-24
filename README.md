@@ -1,7 +1,10 @@
 # M1_app_EvChargingStations
 
 [![Build Windows](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml)
+
 [![Build_linux](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml)
+
+[![Static code Cppcheck](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml)
 
 Around 1832, Robert Anderson develops the first crude electric vehicle, But upto date we are using IC engines vehicle.
 why because 
