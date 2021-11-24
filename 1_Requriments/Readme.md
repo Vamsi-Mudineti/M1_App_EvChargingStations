@@ -50,11 +50,11 @@ Comparsion of EV's And SI Engines
 ![image](https://image.cnbcfm.com/api/v1/image/106315306-157772330676720191230_timeline_of_market_development.png?v=1577723332&w=720&h=405)
 
 # Defining Our System
-Ev charging station supplies energy to EV's, Here we can generate our own energy either wind turbines or solar panels or connected to transmission line.and  Energy is given to charge EV's.
-Note: If it is connected to tranmission lines, we neeed to use rectifier to convert AC to DC supply(120V DC). if we use use solar or wind energy sources we need to used regulator to obtaine a constant DC Output.
+EV charging station supplies energy to EV's, Here we can generate our own energy either wind turbines or solar panels or connected to transmission line and  energy is given to charge EV's.
+Note: If it is connected to tranmission lines, we need to use rectifier to convert AC to DC supply(120V DC). If we use solar or wind energy sources we need to used regulator to obtaine a constant DC Output.
 
-In My system Coin sensor,Microcontroller,Realy,LCD display are used.
-As soon Coin Sensor detects the coin it sends a pulse to the Microcontroller. The Microcontroller turns ON the relay(Electromechanical Switch) to provide 230V,50Hz signal to the charge the EV. The LCD (16×2) is used to display the time duration for which the user can charge his/her EV.
+In my system Coin sensor, Microcontroller, Realy, LCD display are used.
+As soon as Coin Sensor detects the coin it sends a pulse to the Microcontroller. The Microcontroller turns ON the relay(Electromechanical Switch) to provide 230V,50Hz signal to the charge the EV. The LCD (16×2) is used to display the time duration for which the user can charge his/her EV.
 If we insert a coin accroding to that EV's will charge up to time
 For example:
 if we insert 1Rs coin it will charge up to 1 mintue.30 seconds, -> 2 rs coin it charge up to 3 mintues,if we 5 rs coin  it will charge up to 10 mintues. like that i need to implement.
@@ -65,7 +65,7 @@ if we insert 1Rs coin it will charge up to 1 mintue.30 seconds, -> 2 rs coin it 
 
 # 4W's and 1'H
 Who:
-Who are the users/applications that are allowed to use the EV charging station,all EV's are charged it is automated so  we didn't want any satff here. 
+Who are the users/applications that are allowed to use the EV charging station,all EV's are charged it is automated so  we didn't want any staff here. 
 
 What:
 What are the things involved in EV's Charging Station? Are the things actual physical devices or virtual entities? Are these things used for sensing or actuation? What are the capabilities of these things? What is the lifetime of these things? What is the phenomenon of interest measured by these things? What are the conditions under which these things must collect data? Should the data be collected under certain circumstances only? The answer to ‘what’ of an EV's application requires concepts to identify the data sources and their context (e.g., the mobility of the sensor, the activity being performed, whether measurements were taken by devices automatically or was there some human intervention).
@@ -91,8 +91,8 @@ How do users interact with things/Equipment? How are new things deployed within 
 ## Low level Requirements:
 | ID | Description | HLR ID | Status |
 |-------|--------------|---------|-----------|
-|LR01|Maintaining Constant Voltage 230 Vlots for Single Phase,415 vlots for 3 phase|HR01|IMPLEMENTED|
+|LR01|Maintaining Constant Voltage 230 Volts for Single Phase,415 volts for 3 phase|HR01|IMPLEMENTED|
 |LR02|Maintaing Constant current of 12 amps|HR01|IMPLEMENTED|
 |LR03|Time required for charging is must less|HR02| IMPLEMENTED|
-|LR04|Maintane a power backup facility| Hr03| IMPLEMENTED|
-|LR04|Unviersal Connectors is used for Ebike another one for Ecars/EBuses |HR04| IMPLEMENTED|
+|LR04|Maintain a power backup facility| Hr03| IMPLEMENTED|
+|LR04|Universal Connectors is used for Ebike another one for Ecars-EBuses |HR04| IMPLEMENTED|
