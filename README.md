@@ -1,5 +1,5 @@
 # M1_app_EvChargingStations
-|Build_Windows|Build_linux|Static_code_ Cppcheck|Unit_Testing|Codacy|
+| Build_Windows|  Build_linux|  Static_code_ Cppcheck|  Unit_Testing| Codacy|
 
 |[![Build Windows](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_windows.yml)|[![Build_linux](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/build_linux.yml)
 |[![Static code Cppcheck](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/cppcheck.yml)|[![Unit_Testing](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/Vamsi-Mudineti/M1_App_EvChargingStations/actions/workflows/Unit_testing.yml)|
