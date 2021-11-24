@@ -94,7 +94,7 @@ How do users interact with things/Equipment? How are new things deployed within 
 |LR01|Identify the Energy source to charge EV|HR01|IMPLEMENTED|
 |LR02|Coin Sensior|HR01|IMPLEMENTED|
 |LR03|Microcontroller|HR01| IMPLEMENTED|
-|LR03|Relay|HR01| IMPLEMENTED|
-|LR03|Charging timme will change base on coins|HR02| IMPLEMENTED|
-|LR04|Lcd display used to display actions/status| Hr03| IMPLEMENTED|
-|LR04|Universal Connectors is used for Ebike another one for Ecars-EBuses |HR04| IMPLEMENTED|
+|LR04|Relay|HR01| IMPLEMENTED|
+|LR05|Charging timme will change base on coins|HR02| IMPLEMENTED|
+|LR06|Lcd display used to display actions/status| Hr03| IMPLEMENTED|
+|LR07|Universal Connectors is used for Ebike another one for Ecars-EBuses |HR04| IMPLEMENTED|
