@@ -23,6 +23,7 @@ iii) Wireless parking charge
 
 ## My idea is to implement a charging station, if we insert a coin accroding to that EV's will charge up to time. 
 
+
 # Research
 Present if we observe the current situation pertol price is high, so every one is look at EV's.recently, Ola electricals lanuch ebikes S1 and S1 pro registration hits 500 scooter per second.EV's are also occupies 30% of present market shares.
 ![image](https://www.91-cdn.com/hub/wp-content/uploads/2021/11/electric-car-sales-india-fy-2021-2022.jpg)
