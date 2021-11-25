@@ -19,10 +19,10 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eeec8d4d4d214cd7994be37ffd2adbcf)](https://www.codacy.com/gh/Vamsi-Mudineti/M1_App_EvChargingStations/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vamsi-Mudineti/M1_App_EvChargingStations&amp;utm_campaign=Badge_Grade)
 
 ## Code Quality
-https://api.codiga.io/project/30052/score/svg
+![image](https://api.codiga.io/project/30052/score/svg)
 
 ## Code Grade
-https://api.codiga.io/project/30052/status/svg
+![image](https://api.codiga.io/project/30052/status/svg)
 
 Around 1832, Robert Anderson develops the first crude electric vehicle, But upto date we are using IC engines vehicle.
 why because 
